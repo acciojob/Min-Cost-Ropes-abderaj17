@@ -1,4 +1,4 @@
-function MinCost() {
+function minCost() {
     const input = document.getElementById('ropesInput').value;
     const output = document.getElementById('output');
 
